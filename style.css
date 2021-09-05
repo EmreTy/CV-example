@@ -1,0 +1,14 @@
+.header {
+  padding: 48px 16px;
+  text-align: center;
+  background-color: #eee;
+}
+
+.profession::after {
+  content: "👨‍💻";
+}
+
+.nav-link {
+  padding: 4px 8px;
+  color: black;
+}
