@@ -1,7 +1,7 @@
 .header {
   padding: 48px 16px;
   text-align: center;
-  background-color: #eee;
+  background-color: hsl(193, 20%, 61%);
 }
 
 .profession::after {
@@ -11,4 +11,12 @@
 .nav-link {
   padding: 4px 8px;
   color: black;
+}
+
+.main {
+  border-top: 2px solid black;
+}
+
+.experience {
+  border-top: 4px solid grey;
 }
